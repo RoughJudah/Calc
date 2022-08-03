@@ -1,5 +1,4 @@
-# Calc
-Console calculator
+# Console calculator
 Using:
 git clone
 cd Calc
